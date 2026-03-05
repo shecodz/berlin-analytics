@@ -1,0 +1,12 @@
+{
+  "name": "berlin-analytics",
+  "version": "1.0.0",
+  "description": "Brutalist analytics dashboard with cold precision",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["berlin", "analytics", "dashboard"],
+  "author": "shecodz",
+  "license": "MIT"
+}
